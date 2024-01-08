@@ -1,0 +1,7 @@
+:root {
+  --yellow: hsl(47, 88.3%, 63.1%);
+}
+
+body {
+  background-color: var(--yellow);
+}
