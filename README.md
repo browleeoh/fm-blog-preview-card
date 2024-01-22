@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/browleeoh/fm-blog-preview-card)
-- Live Site URL: [URL](https://browleeoh.github.io/fm-blog-preview-card/)
+- Live Site URL: [Site](https://browleeoh.github.io/fm-blog-preview-card/)
 
 ## My process
 
