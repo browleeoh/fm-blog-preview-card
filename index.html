@@ -17,6 +17,38 @@
     <title>Frontend Mentor | Blog preview card</title>
   </head>
   <body>
-    <div class="blog-card"></div>
+    <main class="main">
+      <article class="blog-card-wrapper">
+        <figure class="blog-card__image">
+          <img src="./assets/images/illustration-article.svg" alt="" />
+        </figure>
+        <section class="blog-card__content">
+          <span class="blog-card__category body_s_bold">Learning</span>
+          <time class="blog-card__published-date body_s_regular"
+            >Published 11 Oct 2020</time
+          >
+          <header class="blog-card__header">
+            <h2 class="blog-card__title heading">
+              <a>HTML & CSS foundations</a>
+            </h2>
+          </header>
+          <p class="blog-card__description">
+            These languages are the backbone of every website, defining
+            structure, content, and presentation.
+          </p>
+        </section>
+        <footer class="blog-card__footer">
+          <figure>
+            <img
+              src="./assets/images/image-avatar.webp"
+              alt="User image."
+              height="32px"
+              width="32px"
+            />
+          </figure>
+          <p class="blog-card__author body_s_bold">Greg Hooper</p>
+        </footer>
+      </article>
+    </main>
   </body>
 </html>
